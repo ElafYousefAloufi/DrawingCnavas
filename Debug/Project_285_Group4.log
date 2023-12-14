@@ -1,0 +1,40 @@
+﻿  Source.cpp
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(79,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(79,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(79,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(82,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(82,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(82,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(85,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(85,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(85,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(88,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(88,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(88,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(91,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(91,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(91,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(102,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(103,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(103,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(103,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(105,39): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(105,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(117,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(118,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(122,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(123,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(137,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(149,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(219,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(219,56): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(220,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(247,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(249,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(254,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(256,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(260,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(262,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(266,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jeelan\source\repos\Project_285_Group4\Source.cpp(268,20): warning C4018: '<': signed/unsigned mismatch
+  Project_285_Group4.vcxproj -> C:\Users\Jeelan\source\repos\Project_285_Group4\Debug\Project_285_Group4.exe
